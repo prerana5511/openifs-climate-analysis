@@ -1,0 +1,7 @@
+Simulation,Surface type,Regression slope,R²
+Control,All points,2.87 × 10?¹³,0.0025
+Control,Sea,1.58 × 10?¹³,0.0007
+Control,Land,4.80 × 10?¹³,0.0078
+NoRad,All points,3.23 × 10?,0
+NoRad,Sea,4.36 × 10?,0
+NoRad,Land,1.02 × 10?,0

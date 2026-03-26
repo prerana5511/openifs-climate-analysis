@@ -1,0 +1,18 @@
+item,value,units,notes
+control_tp,6.312403,mm,Area-mean tp in Minerva box
+norad_tp,4.663334,mm,Area-mean tp in Minerva box
+ens_min_tp,6.632650,mm,Min of ensemble members
+ens_mean_tp,9.057817,mm,Mean of ensemble members
+ens_max_tp,11.217387,mm,Max of ensemble members
+ens_2023051300_tp,11.217387,mm,Ensemble member area-mean tp
+ens_2023051306_tp,10.548537,mm,Ensemble member area-mean tp
+ens_2023051312_tp,10.024572,mm,Ensemble member area-mean tp
+ens_2023051318_tp,9.224665,mm,Ensemble member area-mean tp
+ens_2023051400_tp,9.017179,mm,Ensemble member area-mean tp
+ens_2023051406_tp,8.279501,mm,Ensemble member area-mean tp
+ens_2023051412_tp,7.518042,mm,Ensemble member area-mean tp
+ens_2023051418_tp,6.632650,mm,Ensemble member area-mean tp
+control_rmse_global,1.461056,hPa,RMSE of msl over full grid
+control_rmse_box,1.161739,hPa,RMSE of msl over Minerva box
+norad_rmse_global,2.808292,hPa,RMSE of msl over full grid
+norad_rmse_box,1.628711,hPa,RMSE of msl over Minerva box
