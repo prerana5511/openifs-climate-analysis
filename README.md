@@ -9,3 +9,5 @@ Tasks:
 
 Tools:
 Python, NumPy, xarray, NetCDF
+
+Linear regression analysis shows negligible correlation between rainfall and surface shortwave radiation in the control simulation (R² ≈ 0.0025), and no meaningful relationship in the NoRad experiment due to suppressed radiative forcing.
